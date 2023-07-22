@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can visit to create a React Counter app with Redux [Create React Counter App](https://neptuneworld.in/blog/create-your-first-app-react-redux-counter-app/).
 
 ## Available Scripts
 
